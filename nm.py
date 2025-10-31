@@ -5,9 +5,9 @@ import asyncio
 from telegram import Update, InputMediaPhoto
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "7580379658:AAHPdSualXzx__jaP7aPWG_adTNZR7RvZzg"    # اینجا توکن ربات
-BOT_USERNAME = "Gsjsvsjmz_bot"   # بدون @
-OWNER_ID = 5311388101   # آیدی عددی خودت
+TOKEN = ""    # اینجا توکن ربات
+BOT_USERNAME = ""   # بدون @
+OWNER_ID =   # آیدی عددی خودت
 PACKS_FILE = "packs.json"
 
 # بارگذاری پک‌ها از JSON
